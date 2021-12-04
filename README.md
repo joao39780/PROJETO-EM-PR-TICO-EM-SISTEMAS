@@ -14,3 +14,7 @@ Repostitório criado para armazenar os arquivos do projeto
 
 
 # Provedor cloud do projeto
+A aplicação web desenvolvida nesse semestre foi publicada utilizando uma instância **ec2** na **Amazon Web Services(AWS)**, e pode ser acessada atráves do link abaixo:
+
+## http://18.190.75.195/taskHelper/
+> Observação: por favor não coloque o **s** na frente do **http://**, pois a instância não possui SSL 
