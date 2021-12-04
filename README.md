@@ -1,4 +1,4 @@
-# PROJETO-EM-PR-TICO-EM-SISTEMAS
+# PROJETO EM PRÁTICO EM SISTEMAS
 Repostitório criado para armazenar os arquivos do projeto
 * **Dia:** Terça-Feira (Pós-aula)
 * **Período:** manhã
@@ -7,7 +7,7 @@ Repostitório criado para armazenar os arquivos do projeto
 
 | RA        | NOME COMPLETO             |CURSO  | TURMA |
 |-----------|---------------------------|-------|-------|
-| 920127025 | JOÃO VITOR MACIEL DUARTE  | TADS  | 1A    |
+| 920127025 | JOÃO VITOR MACIEL DUARTE  | TADS  | 04/A  |
 
 
 # Descrição do projeto
