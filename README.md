@@ -14,10 +14,17 @@ Repostitório criado para armazenar os arquivos do projeto
 Foi desenvolida uma aplicação web to do list chamada **taskHelper** com funcionalidades de inserção, exclusão, atualização e selecionamento de dados, o projeto incialmente foi
 desenvolvido utilizando o framework **Laravel**, que precisou ser removido do projeto devido a incompatibilidade com o servidor remoto
 
-**Linguagem de programação utilizada: 
-PHP<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>**
+### Linguagem de programação utilizada: 
 
-**Software design pattern:MVC**
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+
+### Software design pattern: 
+
+MVC
+
+### Banco de dados:
+
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 # Provedor cloud do projeto
 A aplicação web desenvolvida nesse semestre foi publicada utilizando uma instância **ec2** na **Amazon Web Services(AWS)**, e pode ser acessada atráves do link abaixo:
