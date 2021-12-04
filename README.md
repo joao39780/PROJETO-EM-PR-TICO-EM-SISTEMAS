@@ -11,7 +11,7 @@ Repostitório criado para armazenar os arquivos do projeto
 
 
 # Descrição do projeto
-Foi desenvolida uma aplicação web to do list chamada **taskHelper** com funcionalidades de inserção, exclusão, atualização e selecionamento de dados, o projeto incialmente foi
+Foi desenvolida uma aplicação web **To do list** chamada **taskHelper** com funcionalidades de inserção, exclusão, atualização e selecionamento de dados, o projeto incialmente foi
 desenvolvido utilizando o framework **Laravel**, que precisou ser removido do projeto devido a incompatibilidade com o servidor remoto
 
 ### Linguagem de programação utilizada: 
