@@ -1,4 +1,4 @@
-# PROJETO EM PRÁTICO EM SISTEMAS
+# PROJETO PRÁTICO EM SISTEMAS
 Repostitório criado para armazenar os arquivos do projeto
 * **Dia:** Terça-Feira (Pós-aula)
 * **Período:** manhã
