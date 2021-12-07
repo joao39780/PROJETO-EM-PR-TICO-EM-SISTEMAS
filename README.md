@@ -3,7 +3,7 @@ Repostitório criado para armazenar os arquivos do projeto
 * **Dia:** Terça-Feira (Pós-aula)
 * **Período:** manhã
 
-# Intregrantes
+# Integrantes
 
 | RA        | NOME COMPLETO             |CURSO  | TURMA |
 |-----------|---------------------------|-------|-------|
